@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group >
+    <item
+        android:title="Products"
+        android:id="@+id/pro"
+        android:icon="@drawable/ic_baseline_local_mall_24"
+        >
+    </item>
+</group>
+    <group>
+    <item
+        android:title="Services"
+        android:id="@+id/ser"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24"
+        >
+    </item>
+    </group>
+<group>
+    <item
+        android:title="Contact us"
+        android:id="@+id/contact"
+        android:icon="@drawable/ic_baseline_chat_24"
+        >
+    </item>
+</group>
+    <item
+        android:title="Categories"
+        android:icon="@drawable/ic_baseline_category_24"
+        >
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <group>
+                <item android:id="@+id/hair_care"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Hair care">
+                </item>
+                <item android:id="@+id/personal_care"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Personal care">
+                </item>
+                <item android:id="@+id/skin_care"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Skin care">
+                </item>
+                <item android:id="@+id/Momandbaby"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Mam $ Baby">
+                </item>
+                <item android:id="@+id/map_up"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Make up">
+                </item>
+                <item android:id="@+id/accessories"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="Accessories">
+                </item>
+                <item android:id="@+id/more_pro"
+                    android:icon="@drawable/ic_baseline_category_24"
+                    android:title="More Products">
+                </item>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:title="Brands"
+        android:icon="@drawable/ic_baseline_branding_watermark_24"
+        >
+
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <group>
+                <item android:id="@+id/Amzon_series"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="Amazon Series">
+                </item>
+                <item android:id="@+id/aroma"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="Aroma Magic">
+                </item>
+                <item android:id="@+id/profiessinal"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="GK Professional">
+                </item>
+                <item android:id="@+id/Gubb"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="GUBB">
+                </item>
+                <item android:id="@+id/ikonic"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="IKONIC">
+                </item>
+                <item android:id="@+id/jonnnot"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="JEANNOT">
+                </item>
+                <item android:id="@+id/kerylon"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="KERYLON">
+                </item>
+                <item android:id="@+id/Loreal"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="L'OREAL PROFESSIONAL">
+                </item>
+                <item android:id="@+id/lotus"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="LOTUS PROFESSIONAL">
+                </item>
+                <item android:id="@+id/mamearth"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="MAM EARTH">
+                </item>
+                <item android:id="@+id/maybeline"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="MAYBELLINE">
+                </item>
+                <item android:id="@+id/mocrocaniol"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="MOROCCAN Oil">
+                </item>
+                <item android:id="@+id/oplus"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="O3 + plus">
+                </item>
+                <item android:id="@+id/plum"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="PLUM">
+                </item>
+                <item android:id="@+id/proarte"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="PROARTE">
+                </item>
+                <item android:id="@+id/ricfeel"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="RICFEEL">
+                </item>
+                <item android:id="@+id/babycare"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="THE BABY CARE">
+                </item>
+                <item android:id="@+id/tibolli"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="TIBOLLI">
+                </item>
+                <item android:id="@+id/wow"
+                    android:icon="@drawable/ic_baseline_branding_watermark_24"
+                    android:title="WOW">
+                </item>
+
+            </group>
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
